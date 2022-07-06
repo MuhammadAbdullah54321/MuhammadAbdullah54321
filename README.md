@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Abdullah
 - 👀 I’m interested in .... React-Native, AWS Amplify, Elasticsearch, GraphQL
-- 🧑🏻‍💻 Have 2+ years of experience in Mobile Development. I have worked proejcts, both alone and in teams as well.
+- 🧑🏻‍💻 Have 2+ years of experience in Mobile Development. I have worked proejcts, both stand alone and in teams as well.
 - 💞️ I have solid experience in building beautiful mobiles apps using AWS Amplify as backend. I also have experience in publishing apps on both Apple App Store as well as Google Play Sore
 
 - 📫 You can reach me on abdullahpakistan54321@gmail.com
